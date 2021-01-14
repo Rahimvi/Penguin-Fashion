@@ -21,6 +21,9 @@
     .details p {
         font-size: 12px;
     }
+    .navbar button {
+        margin-left: 80%;
+    }
 }
 @media (max-width: 576px) {
     .hero-section {
@@ -32,14 +35,14 @@
     }
     .shoes-card img {
         width: 80%;
-        margin-left: 8%;
+        margin-left: 10%;
     }
     .all-contant {
         flex-direction: column;
     }
     .perfect {
         margin-bottom: 50px;
-        margin-left: 8%;
+        margin-left: 9%;
     }
     .all-header {
         width: 100px;
