@@ -1,0 +1,51 @@
+.container-fluid, .logo-png img {
+    Width: 291.11px;
+    Height: 39.27px;
+}
+#navbarNav ul li {
+    margin-left: 20px;
+}
+#navbarNav ul li a {
+    color: #000;
+    font-weight: 600;
+}
+.grid-container {
+}
+.grid-item {
+}
+
+.shoes-logo img {
+    width: 80%;
+}
+h1 {
+    font-weight: 700;
+}
+span {
+    color: #4F516C;
+}
+header {
+    background-color: #FFF9F4;
+}
+.shoes-card img {
+    width: 300px;
+    background-color: #f1f1f1;
+}
+.shoes-card {
+    border: 0;
+}
+.icon img {
+    width: 78px;
+}
+.icon-items {
+    width: 500px;
+}
+.details h4, p, #contact h2, .form-label {
+    color: #4F516C;
+}
+
+.cart-image img {
+    width: 600px;
+}
+#contact {
+    background-color: #FFF9F4;
+}
